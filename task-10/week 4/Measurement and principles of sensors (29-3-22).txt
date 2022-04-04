@@ -1,0 +1,46 @@
+(I) ABSOLUTE INTRUMENTS
+(a) indicate the value of the quantity being measure in terms of constanst
+of the instruments and their deflection onli.
+(b)The example of such an instrument is tangent galvanometer, which gives the 
+value of current, in terms of the tangent of deflection 
+produced by the current,the radius and number of turns of wire used and the
+ horizontal component of earth’s field.
+(c) used in labs 
+
+(II)SECONDARY INSTRUMENTS{used in everday werk}
+(a) Indicating- indicates the instantaneous value of the reading
+(b) Recording - gives a continuous record of the variation of the quantity 
+being measured(v,frequency,P)
+used in power plants and process industries.
+(c) Integrating- takes into consideration the period or the time over which
+ the quantity is supplied eg- 
+amperehour meter,energy meter.
+Electrical instruments can be classified into:
+ac,dc and ac/dc instruments.
+{A) Analog - continuos and stepless function of time easy to understand,
+calibrate and maintain
+(B) Digital- 
+
+SENSORS
+*TRANSCUDER
+(a)converts a primary form of energy into a corresponding signal w a diff
+energy form.(mechanical,thermal)
+*SENSOR
+(a)a device which provides a usable output in response to a specified 
+measurand.
+*ACTUATOR
+(a)a device that generates a signal or stimulus.
+
+Sensor systems
+general electronic sensor
+(a)primary tranducer-changes real world parameter into electrical signal
+(b)secondray transcuder-converts electrical signal into analog or digital 
+signal
+(c)conventinal transducer-large,generally stable but based on old tech
+eg- thermocouple,compass
+(d)microelectronic sensors-millimeter,highly sensitive,less robust
+eg-photodiode,piezoresistive pressure sensor,chemical sensors
+
+
+
+

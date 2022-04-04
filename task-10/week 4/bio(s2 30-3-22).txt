@@ -1,0 +1,15 @@
+Genome
+*all the genetic info in a cell
+*a genome sequence is a list of nucleotoids (A,C,G and T for DNA genomes)
+that make up all the chromosomes of an individual for a species.
+*we have a copy of genome in nearly every cell in our body.
+*human genome is 3 billion nucleotide long "book" written in A,C,G,T 
+alphabets
+*avg gene length-5x10^-7 m
+GENE
+*it is a unit of function,recombination and mutation
+*basic physical unit of heredity
+*they act as instrcutions to make molecules called proteins.
+ANTI PARALLEL DNA STRANDS
+leading strand 5'..........3'
+lagging strand 3'..........5'
