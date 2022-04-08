@@ -11,19 +11,19 @@ I am Pakhi Banchalia, from Dehradun, Uttarakhand, first year at Amrita School of
 </tr>
 
 <tr>
-<td><a href="https://github.com/Pakhi07/amFOSS-tasks/tree/master/task-00">Task-00</a></td>
+<td><a href="https://github.com/brr14/amFOSS-tasks/tree/master/task-00">Task-00</a></td>
 <td>Installing Ubuntu</td>
 <td>Completed </td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/Pakhi07/amFOSS-tasks/tree/master/task-01">Task-01</a></td>
+<td><a href="https://github.com/brr14/amFOSS-tasks/tree/master/task-01">Task-01</a></td>
 <td>Staring amFOSS repositories</td>
 <td>Completed</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/Pakhi07/amFOSS-tasks/tree/master/task-02">Task-02</a></td>
+<td><a href="https://github.com/brr14/amFOSS-tasks/tree/master/task-02">Task-02</a></td>
 <td>Begin your journey with Linux and Git</td>
 <td>Completed</td>
 </tr>
